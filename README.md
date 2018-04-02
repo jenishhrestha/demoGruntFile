@@ -1,2 +1,2 @@
-# demoGruntFile
-A demo for a grunt Sass project
+# GruntJSdemo
+A custom demo file for grunt js.
